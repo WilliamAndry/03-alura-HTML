@@ -2,6 +2,14 @@ body{
     background: #CCCCCC;
 } 
 
+#banner{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+
+}
 p{
     text-align: center;
     
@@ -9,4 +17,8 @@ p{
 
 em strong{
     color: red;
+}
+
+#mision{
+    font-size: 20px;
 }
